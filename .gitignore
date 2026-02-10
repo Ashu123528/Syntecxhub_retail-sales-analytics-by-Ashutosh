@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+
+# Jupyter / Anaconda
+.ipynb_checkpoints/
+anaconda_projects/
+*.db
+
+# Python cache
+__pycache__/
